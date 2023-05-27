@@ -35,35 +35,35 @@ public class tipos_de_datos_primitivos_y_conversion {
         // Integer entero = Integer.valueOf(cadena);
         // int entero = Integer.parseInt(cadena);
 
-// // Integer a String
-// String cadena = Integer.toString(entero);
-// String cadena = String.valueOf(entero);
+        // // Integer a String
+        // String cadena = Integer.toString(entero);
+        // String cadena = String.valueOf(entero);
 
-// // Char a String
-// String cadena = Character.toString(char);
+        // // Char a String
+        // String cadena = Character.toString(char);
 
-// // String a Char
-// char caracter = cadena.charAt(0);
+        // // String a Char
+        // char caracter = cadena.charAt(0);
 
-// // String a Double
-// double doble = Double.parseDouble(cadena);
-   
-// // Double a String
-// String cadena = String.valueOf(doble);
+        // // String a Double
+        // double doble = Double.parseDouble(cadena);
 
-// // String a Float
-// float flotante = Float.parseFloat(cadena);
+        // // Double a String
+        // String cadena = String.valueOf(doble);
 
-// // Float a String
-// String cadena = Float.toString(flotante);
+        // // String a Float
+        // float flotante = Float.parseFloat(cadena);
 
-// // String a Boolean
-// Boolean boolean = Boolean.valueOf(cadena);
-// boolean boolean = Boolean.parseBoolean(cadena);
+        // // Float a String
+        // String cadena = Float.toString(flotante);
 
-// // Boolean a String
-// String cadena = String.valueOf(b);
-// String cadena = Boolean.toString(b);
+        // // String a Boolean
+        // Boolean boolean = Boolean.valueOf(cadena);
+        // boolean boolean = Boolean.parseBoolean(cadena);
 
+        // // Boolean a String
+        // String cadena = String.valueOf(b);
+        // String cadena = Boolean.toString(b);
 
+    }
 }
